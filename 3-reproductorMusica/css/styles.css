@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.player {
+    width: 400px;
+}
+
+.progress {
+    height: 5px;
+}
+
+.progress-bar {
+    width: 75%;
+}
+
+.btn-sm {
+    height: 50px;
+    width: 50px;
+}
+
+.btn-lg {
+    height: 100px;
+    width: 100px;
+}
